@@ -1,3 +1,5 @@
+/*Write a program in C that takes a character input from the user and identifies whether it is a vowel or a
+consonant.*/
 #include<stdio.h>
 
 int main(void)
